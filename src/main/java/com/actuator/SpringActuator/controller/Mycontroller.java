@@ -10,7 +10,7 @@ public class Mycontroller {
 
     @GetMapping("/test")
     public String testEndPoint(){
-        return "Spring boot actuator example";
+        return "This is the tsring purpose";
     }
 
 }
